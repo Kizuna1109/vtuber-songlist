@@ -1,8 +1,8 @@
 /* 基礎樣式：深色主題 */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #1a1a2e; /* 深藍紫背景 */
-    color: #e4e6eb; /* 淺灰文字 */
+    background-color: #000000; /* 深藍紫背景 */
+    color: #FFFFFF; /* 淺灰文字 */
     padding: 20px;
     line-height: 1.6;
 }
@@ -98,4 +98,5 @@ tr:hover {
 .sort-indicator {
     margin-left: 5px;
     font-size: 0.8em;
+
 }
