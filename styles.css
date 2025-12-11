@@ -119,10 +119,11 @@ a:visited {
 /* 3. 滑鼠懸停時的連結 (互動效果) */
 a:hover {
     color: #FFFF00; /* 亮黃色，強調點擊狀態 */
-    text-decoration: underline; /* 懸停時顯示下劃線 */
+    text-decoration: none; /* 懸停時顯示下劃線 */
 }
 
 /* 4. 點擊瞬間的連結 */
 a:active {
     color: #FF4500; /* 橙紅色 */
 }
+
